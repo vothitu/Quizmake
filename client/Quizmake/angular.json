@@ -128,5 +128,8 @@
       }
     }
   },
-  "defaultProject": "Quizmake"
+  "defaultProject": "Quizmake",
+  "cli": {
+    "analytics": "9fccdc4f-4934-41eb-933b-83b60257161b"
+  }
 }
